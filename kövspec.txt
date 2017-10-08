@@ -1,0 +1,4 @@
+Id Név Kifejtés
+K1 Hivatkozások Ha rákattint a felhasználó egy hivatkozásra akkor azt az oldalt érje amelyet szeretne és onnan vissza is tudjon lépni
+K2 Menü Ez a fõoldal innen lehet eljutni a többi oldalra és bármelyik oldalról ide kell visszajutni
+
